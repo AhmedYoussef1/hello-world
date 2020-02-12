@@ -1,2 +1,9 @@
 # hello-world
-just a description
+
+
+
+this is my first day of using github
+
+
+
+bla bla bla ...
